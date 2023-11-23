@@ -47,16 +47,16 @@ Implemente uma classe chamada Fila com métodos da Figura abaixo. Para a impleme
   <img src="https://github.com/matheusdutra0207/Trabalho-2-ling-prog-POO/blob/main/Imagens/estrutura.png" width="450" title="prog 1 e 2">
 </p>
 
-### Descrição dos métodos
+### Descrição dos métodos:
 
-  adicionar: Adiciona algo na fila;
+  ```adicionar:``` Adiciona algo na fila;
   
-  _tamanho: Atributo privado que guarda o tamanho atual da fila;
+  ```_tamanho:``` Atributo privado que guarda o tamanho atual da fila;
   
-  remover: Método que remove algo da fila;
+  ```remover:``` Método que remove algo da fila;
   
-  __getiten__: Obtém um elemento da lista através do índice. Por exemplo, banco[3] retorna o quarto item da lista;
+  ```__getiten__:``` Obtém um elemento da lista através do índice. Por exemplo, banco[3] retorna o quarto item da lista;
   
-  __len__:  Método para obter o tamanho da lista utilizando a função len do Python. 
+  ```__len__:```  Método para obter o tamanho da lista utilizando a função len do Python. 
 
 
