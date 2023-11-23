@@ -1,9 +1,13 @@
 # Problema 1 - Árvore Binária de Busca
 
+## Objetivo
+
+Aprender como implementar e realizar uma busca, inserção e remoção em uma árvore binária de busca.
+
 ## Passos: 
 1. Implemente uma classe que faça a função de uma árvore binária de busca. A figura abaixo mostra os métodos exigidos para a classe. 
 
-2. Estruture os dados do arquivo x em ordem de uma árvore binária de busca. Utilize sua implementação de árvore binária para a realização do processo. 
+2. Estruture os dados do arquivo [dados árvore binária](https://github.com/matheusdutra0207/Trabalho-3-ling-prog-Estrutura-de-dados/blob/master/dados/dados_para_a_busca_bin%C3%A1ria.csv) em ordem de uma árvore binária de busca. Utilize sua implementação de árvore binária para a realização do processo. 
 
 3. Salve um arquivo csv com os dados na ordem da árvore binária.
 
