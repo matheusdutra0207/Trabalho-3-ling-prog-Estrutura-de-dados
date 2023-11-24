@@ -77,5 +77,12 @@ Entender como funciona uma busca em profundidade em um grafo
 
 3. Qual a ordem dos nós visitados feitos na busca acima ?
 
+# Itens necessários para a entrega do trabalho 
+
+1. Código fonte de todos os problemas resolvidos
+
+2. Relatório técnico que explica o desenvolvimento e resultados do trabalho
+
+
 
 
