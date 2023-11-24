@@ -73,7 +73,7 @@ Entender como funciona uma busca em profundidade em um grafo
   <img src="https://github.com/matheusdutra0207/Trabalho-3-ling-prog-Estrutura-de-dados/blob/master/imagens/Problema%203%20-%20Grafos.png" width="450" title="prog 1 e 2">
 </p>
 
-2. Realize uma busca em profundidade no grafo começando pelo vértice 5. 
+2. Realize uma busca em profundidade no grafo começando pelo nó 5. 
 
 3. Qual a ordem dos nós visitados feitos na busca acima ?
 
@@ -82,6 +82,8 @@ Entender como funciona uma busca em profundidade em um grafo
 1. Código fonte de todos os problemas resolvidos
 
 2. Relatório técnico que explica o desenvolvimento e resultados do trabalho
+
+3. Os arquivos .csv gerados
 
 
 
